@@ -96,7 +96,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://dumas21.vercel.app/"
+                href="https://www.voucherhighlandstoanquoc.com/"
                 target="_blank"
                 rel="noreferrer"
               >
