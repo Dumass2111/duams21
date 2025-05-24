@@ -5,7 +5,7 @@ import {
   SiGoogleads,
   SiTiktok,
 } from "react-icons/si";
-import { AiOutlineOpenAI } from "react-icons/ai";
+
 import {
   BsMeta,
 } from "react-icons/bs";
@@ -30,9 +30,7 @@ function Google() {
       <Col xs={4} md={2} className="tech-icons">
         <FaYoutube />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <AiOutlineOpenAI />
-      </Col>
+     
     
 
     
